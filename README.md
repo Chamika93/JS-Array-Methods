@@ -80,7 +80,7 @@ The flatMap() method returns a new array formed by applying a given callback fun
 *Change the existing array = No*  
 *Return -> new Array*
 
-![FlatMap](flatmap.png)
+![FlatMap](flatMap.png)
 
 ## ForEach
 
@@ -89,7 +89,7 @@ The forEach() method executes a provided function once for each array element.
 *Change the existing array = No*  
 *Return -> undefined*
 
-![ForEach](foreach.png)
+![ForEach](forEach.png)
 
 ## From
 
