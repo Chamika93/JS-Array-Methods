@@ -1,5 +1,13 @@
 # JS-Array-Methods
-test
+
+## Concat
+
+The concat() method is used to merge two or more arrays.
+
+*Change the existing array = No*  
+*Return -> New Array*
+
+
 ![Concat](concat.png)
 
 some text about the method
